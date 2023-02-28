@@ -1,0 +1,1 @@
+- Per usare il while come un for devo dichiarare una variabile contatore e la inizializzo a zero. Nella while termina quando il contatore è uguale o maggiore alla lunghezza dell'array. Ad ogni iterazione bisogna incrementare la variabile contatore
